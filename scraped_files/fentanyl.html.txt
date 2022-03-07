@@ -1,0 +1,13 @@
+Usual Adult Dose for Chronic Pain:
+Due to the risk of respiratory depression, the transdermal patch is for use in opioid-tolerant patients only; opioid tolerant patients have been taking at least: morphine 60 mg daily, oral oxycodone 30 mg daily, oral hydromorphone 8 mg daily, or an equianalgesic dose of another opioid for 1 week or longer.
+-Discontinue all other extended-release opioids when beginning therapy.
+
+Initial doses: The initial dose should be individualized taking into account the patient's prior treatment experience. This dose may be calculated based on the dose conversion guidelines in the product package insert, local protocol, or another reliable reference; when calculating, be aware there is substantial inter-patient variability in the relative potency of different opioid drugs and products and therefore it is preferable to underestimate a 24-hour fentanyl requirement and provide rescue medication than to overestimate which could result in adverse reactions.
+Dose titration:
+-Initial: May increase dose after 3 days based on the daily dose of supplemental opioid analgesics required by the patient on the second or third day of the initial application.
+-Further titration should occur after no less than two 3-day applications as it may take up to 6 days for fentanyl levels to reach equilibrium. Titration should be based on the daily dose of supplementary opioids required and the following ratio may be used: Increase transdermal fentanyl by 12 mcg//hr for use of supplemental oral morphine doses of 45 mg/24 hours.
+Maintenance dose: Adjust dose to obtain an appropriate balance between pain management and opioid-related adverse reactions. During chronic therapy, periodically reassess the continued need for opioid analgesics.
+
+Comments:
+-Do not begin a patient on a fentanyl transdermal patch as their first opioid.
+-A small number of patients may require a 48-hour dosing interval; an increase in dose should be evaluated before changing dosing intervals.

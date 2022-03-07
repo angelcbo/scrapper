@@ -1,0 +1,34 @@
+Usual Adult Dose for Diabetes Type 2:
+To improve glycemic control:
+Initial dose: 5 mg orally once a day
+-May increase to 10 mg orally once a day for additional glycemic control if lower dose has been tolerated
+Maximum dose: 10 mg/day
+
+To reduce the risk of hospitalization for heart failure: 10 mg orally once a day
+
+Comments:
+-Correct volume depletion prior to initiating therapy.
+-Ensure adequate renal function (eGFR greater than 45 mL/min/1.73 m2) as glycemic efficacy is dependent on adequate renal function.
+-If used in combination with insulin or an insulin secretagogue, a lower dose of insulin or the insulin secretagogue should be considered to reduce the risk of hypoglycemia.
+
+Uses:
+-As an adjunct to diet and exercise to improve glycemic control in patients with type 2 diabetes mellitus.
+-To reduce the risk of hospitalization for heart failure in patients with type 2 diabetes mellitus and established cardiovascular disease (CVD) or multiple cardiovascular (CV) risk factors.
+Usual Adult Dose for Heart Failure with Reduced Ejection Fraction:
+10 mg orally once a day
+
+Comments:
+-Correct volume depletion prior to initiating therapy.
+-This drug is not recommended for patients with type 1 diabetes mellitus.
+
+Use: To reduce the risk of cardiovascular death and hospitalization for heart failure in adults with heart failure (NYHA class II-IV) with reduced ejection fraction.
+Usual Adult Dose for Chronic Kidney Disease:
+10 mg orally once a day
+
+Comments:
+-Correct volume depletion prior to initiating therapy.
+-This drug is not recommended in patients with polycystic kidney disease or patients requiring, or with a recent history of immunosuppressive therapy for kidney disease, as it is not expected to be effective.
+-This drug is not recommended for patients with type 1 diabetes mellitus.
+
+Use: To reduce the risk of sustained eGFR decline, end-stage kidney disease, cardiovascular death, and
+hospitalization for heart failure in adults with chronic kidney disease at risk of progression.

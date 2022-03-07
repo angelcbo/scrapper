@@ -1,0 +1,107 @@
+Usual Adult Dose for Malaria Prophylaxis:
+400 mg salt (310 mg base) orally once a week
+
+Weight-based dosing: 6.5 mg/kg salt (5 mg/kg base) orally once a week
+-Maximum dose: 400 mg salt (310 mg base)/dose
+
+Comments:
+-This drug should be administered on the same day of each week.
+-Suppressive therapy should begin 2 weeks prior to exposure and should continue for 4 weeks after leaving the endemic area.
+
+Use: For the prophylaxis of malaria in geographic areas where chloroquine resistance is not reported
+
+US CDC Recommendations: 310 mg base (400 mg salt) orally once a week
+
+Comments:
+-An alternative to chloroquine for prophylaxis only in areas with chloroquine-sensitive malaria
+-Prophylaxis should start 1 to 2 weeks before travel to malarious areas; should continue weekly (same day each week) while in malarious areas and for 4 weeks after leaving such areas
+-If malaria develops while using this drug for chemoprophylaxis, it should not be used as part of the treatment regimen.
+-Current guidelines should be consulted for additional information.
+Usual Adult Dose for Malaria:
+800 mg salt (620 mg base) orally as an initial dose, followed by 400 mg salt (310 mg base) at 6, 24, and 48 hours after the initial dose
+Total dose: 2000 mg salt (1550 mg base)
+
+Weight-based dosing:
+-First dose: 13 mg/kg salt (10 mg/kg base) orally
+-Second dose (6 hours after first dose): 6.5 mg/kg salt (5 mg/kg base) orally
+-Third dose (24 hours after first dose): 6.5 mg/kg salt (5 mg/kg base) orally
+-Fourth dose (48 hours after first dose): 6.5 mg/kg salt (5 mg/kg base) orally
+
+Maximum Dose:
+-First dose: 800 mg salt (620 mg base)/dose
+-Second, third, and fourth dose: 400 mg salt (310 mg base)/dose
+
+Comments:
+-Concomitant therapy with an 8-aminoquinoline compound is necessary for radical cure of Plasmodium vivax and P ovale infections.
+
+Use: For the treatment of uncomplicated malaria due to P falciparum, P malariae, P ovale, and P vivax
+
+US CDC Recommendations: 620 mg base (800 mg salt) orally at once, followed by 310 mg base (400 mg salt) orally at 6, 24, and 48 hours
+Total dose: 1550 mg base (2000 mg salt)
+
+Comments:
+-Recommended for uncomplicated malaria (P falciparum or species not identified) in regions with chloroquine sensitivity
+-Recommended for uncomplicated malaria (P malariae, P knowlesi, P vivax [unless chloroquine-resistant P vivax suspected], or P ovale) in all regions; if treating P vivax or P ovale infections, concomitant treatment with primaquine (after quantitative testing to rule out glucose-6-phosphate dehydrogenase [G6PD] deficiency) is recommended.
+-Recommended for uncomplicated malaria treatment for pregnant women in regions with chloroquine sensitivity
+-Current guidelines should be consulted for additional information.
+Usual Adult Dose for Systemic Lupus Erythematosus:
+200 to 400 mg salt (155 to 310 mg base)/day orally divided in 1 or 2 doses
+
+Comments:
+-Doses above 400 mg/day are not recommended.
+-Higher incidence of retinopathy reported when this maintenance dose is exceeded.
+
+Uses: For the treatment of chronic discoid lupus erythematosus and systemic lupus erythematosus
+Usual Adult Dose for Rheumatoid Arthritis:
+Initial dose: 400 to 600 mg salt (310 to 465 mg base)/day orally divided in 1 or 2 doses
+Maintenance dose: 200 to 400 mg salt (155 to 310 mg base)/day orally divided in 1 or 2 doses
+Maximum dose: 600 mg salt (465 mg base)/day or 6.5 mg/kg salt (5 mg/kg base)/day, whichever is lower
+
+Comments:
+-The action of this drug is cumulative and may require weeks to months to achieve the maximum therapeutic effect.
+-When a good response is obtained, the initial dose may be reduced by 50% and continued at a maintenance dose.
+-Higher incidence of retinopathy reported when this maintenance dose is exceeded; 600 mg salt (465 mg base) or 6.5 mg/kg salt (5 mg/kg base), whichever is lower, should not be exceed per day.
+-Corticosteroids and salicylates may be used with this drug, and they can generally be decreased gradually in dosage or eliminated after a maintenance dose of this drug has been achieved.
+
+Use: For the treatment of acute and chronic rheumatoid arthritis
+Usual Pediatric Dose for Malaria Prophylaxis:
+6.5 mg/kg salt (5 mg/kg base) orally once a week
+Maximum dose: 400 mg salt (310 mg base)/dose
+
+Comments:
+-This drug should be administered on the same day of each week.
+-Suppressive therapy should begin 2 weeks prior to exposure and should continue for 4 weeks after leaving the endemic area.
+
+Use: For the prophylaxis of malaria in geographic areas where chloroquine resistance is not reported
+
+US CDC Recommendations: 5 mg/kg base (6.5 mg/kg salt) orally once a week
+Maximum dose: 310 mg base (400 mg salt)/dose
+
+Comments:
+-An alternative to chloroquine for prophylaxis only in areas with chloroquine-sensitive malaria
+-Prophylaxis should start 1 to 2 weeks before travel to malarious areas; should continue weekly (same day each week) while in malarious areas and for 4 weeks after leaving such areas
+-If malaria develops while using this drug for chemoprophylaxis, it should not be used as part of the treatment regimen.
+-Current guidelines should be consulted for additional information.
+Usual Pediatric Dose for Malaria:
+First dose: 13 mg/kg salt (10 mg/kg base) orally
+Second dose (6 hours after first dose): 6.5 mg/kg salt (5 mg/kg base) orally
+Third dose (24 hours after first dose): 6.5 mg/kg salt (5 mg/kg base) orally
+Fourth dose (48 hours after first dose): 6.5 mg/kg salt (5 mg/kg base) orally
+
+Maximum Dose:
+-First dose: 800 mg salt (620 mg base)/dose
+-Second, third, and fourth dose: 400 mg salt (310 mg base)/dose
+
+Comments:
+-Concomitant therapy with an 8-aminoquinoline compound is necessary for radical cure of P vivax and P ovale infections.
+
+Use: For the treatment of uncomplicated malaria due to P falciparum, P malariae, P ovale, and P vivax
+
+US CDC Recommendations: 10 mg/kg base orally at once, followed by 5 mg/kg base orally at 6, 24, and 48 hours
+Total dose: 25 mg/kg base
+
+Comments:
+-Pediatric dose should never exceed adult dose.
+-Recommended for uncomplicated malaria (P falciparum or species not identified) in regions with chloroquine sensitivity
+-Recommended for uncomplicated malaria (P malariae, P knowlesi, P vivax [unless chloroquine-resistant P vivax suspected], or P ovale) in all regions; if treating P vivax or P ovale infections, concomitant treatment with primaquine (after quantitative testing to rule out G6PD deficiency) is recommended.
+-Current guidelines should be consulted for additional information.
